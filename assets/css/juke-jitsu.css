@@ -1,0 +1,17 @@
+.logo img {
+    width: 120px;
+    height: 120px;
+}
+
+#banner .inner .logo {
+    border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+}
+
+#banner .inner h2 {
+    /* Position left of logo image */
+    display: inline-block;
+    margin: 0 0 0 0.4em;
+    /* Vertically center text */
+    vertical-align: top;
+    line-height: 120px;
+}
